@@ -2,15 +2,15 @@
   "CONTRACT_ADDRESS": "0x30380f55395cb3a5308369ab9e311c87da8b0083",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x30380f55395cb3a5308369ab9e311c87da8b0083",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Polygon Testnet",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "Exzonaut",
-  "SYMBOL": "EXZO",
+  "SYMBOL": "Exzonaut",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 200,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/exzo-galaxy-club",
