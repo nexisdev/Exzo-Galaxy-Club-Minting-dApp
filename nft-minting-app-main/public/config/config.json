@@ -2,15 +2,15 @@
   "CONTRACT_ADDRESS": "0x8fC41fD9a25161560FC4AfC27cd9250fCAce74A9",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8fC41fD9a25161560FC4AfC27cd9250fCAce74A9",
   "NETWORK": {
-    "NAME": "Polygon Testnet",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "Exzonaut",
-  "SYMBOL": "Exzonaut",
+  "NFT_NAME": "Exzo Galaxy Club",
+  "SYMBOL": "exzo",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 200,
+  "DISPLAY_COST": 0.07,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/exzo-galaxy-club",
