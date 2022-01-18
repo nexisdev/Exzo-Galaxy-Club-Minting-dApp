@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x30380f55395cb3a5308369ab9e311c87da8b0083",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x30380f55395cb3a5308369ab9e311c87da8b0083",
+  "CONTRACT_ADDRESS": "0x8fC41fD9a25161560FC4AfC27cd9250fCAce74A9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8fC41fD9a25161560FC4AfC27cd9250fCAce74A9",
   "NETWORK": {
     "NAME": "Polygon Testnet",
     "SYMBOL": "Matic",
